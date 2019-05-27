@@ -1,0 +1,13 @@
+.check-task{
+    text-decoration: line-through;
+}
+.area{
+    background-color: rgb(15, 128, 180);
+    border-radius: 20px;
+}
+.main-input{
+    font-size: 20px;
+}
+.task{
+    background-color: rgb(27, 248, 230);
+}
